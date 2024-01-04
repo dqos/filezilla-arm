@@ -1,6 +1,8 @@
 # FileZilla macOS ARM
 Binaries compiled for the Apple M1/2 because the developers refuse to do it themselves. Compiled and tested on Sonoma 14.0 on a Macbook Pro 14 M1 Pro.
 
+Update: As of December 2023, FileZilla finally decided to release aarch binaries, making this repository redundant: https://filezilla-project.org/download.php?show_all=1
+
 [![](filezilla.png)](https://github.com/dqos/filezilla-arm/releases)
 
 ### Download
